@@ -16,7 +16,7 @@ The script Saves the data in CSV file with the  categories listed below:
    - Job link 
    - Company link
 
-### note 
-use a chrome driver which is compatible with your chrome browser
+### Note 
+Use a chrome driver which is compatible with your chrome browser
 
 
