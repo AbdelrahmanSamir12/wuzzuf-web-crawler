@@ -1,7 +1,7 @@
 # wuzzuf-web-crawler
 
 web crawler script to scrap jobs data from wuzzuf.com which is a well known job recrutiment website in the middle east 
-using selenuim python and beautiful soup 
+using python with selenuim and beautiful soup 
 The script Saves the data in CSV file with the  categories listed below:
    - Job title 
    - Company name 
@@ -16,5 +16,7 @@ The script Saves the data in CSV file with the  categories listed below:
    - Job link 
    - Company link
 
+### note 
+use a chrome driver which is compatible with your chrome browser
 
 
