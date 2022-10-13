@@ -17,6 +17,7 @@ The script Saves the data in CSV file with the  categories listed below:
    - Company link
 
 ### Note 
-Use a chrome driver which is compatible with your chrome browser
+Use a chrome driver which is compatible with your chrome browser.
+Don't forget to put the script and **chromedriver.exe** in the same folder.
 
 
